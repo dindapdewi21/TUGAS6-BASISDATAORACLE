@@ -1,5 +1,6 @@
 # TUGAS6-BASISDATAORACLE
 1. Membuat Trigger 
+
   ![grabilla Uh6960](https://user-images.githubusercontent.com/45527370/147314979-4239a56f-c698-433b-8a7a-798e1f52541b.png)
   ![grabilla q11696](https://user-images.githubusercontent.com/45527370/147314995-3210fa97-8230-4cea-ac63-9cd4a0eed1d9.png)
   ![grabilla Uh1316](https://user-images.githubusercontent.com/45527370/147313605-8e0893be-e2e2-4330-a767-f06b212e73e1.png)
